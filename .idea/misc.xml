@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/JOKI/RecyclerViewKotlin/app/src/main/res/layout/item_superhero.xml" value="0.209375" />
         <entry key="..\:/Users/RAVY-SHOLIHIN/AndroidStudioProjects/RecycleViewKotlin/app/src/main/res/layout/activity_superhero_detail.xml" value="0.1" />
         <entry key="..\:/Users/RAVY-SHOLIHIN/AndroidStudioProjects/RecycleViewKotlin/app/src/main/res/layout/item_superhero.xml" value="0.2" />
       </map>
